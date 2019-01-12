@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="icon" type="image/png" href="Media/favicon.png">
+		<meta charset="ISO-8859-1">
+		<title>Company Login</title>
+		<link rel="stylesheet" type="text/css" href="styling.css">
+		<script>
+			function validate_log()
+			{
+				var e=document.getElementById("email");
+				if(e.value==""||e.value.length>20)
+				{
+					window.alert("Please Check Your Email Address !");
+					email.focus();
+					return false;
+				}
+				else if(document.getElementById("pass").value==""||document.getElementById("pass").value.length>15)
+				{
+					window.alert("Please Check Your Pasword !");
+					pass.focus();
+					return false;
+				}
+				document.getElementById('loginform').submit();
+				return true;
+			}
+		</script>
+	</head>
+	<body>
+		<br/><br/><br/><br/>
+		<br/><br/><br/>
+		<br/><br/>
+		<div align="center" class="others">
+			<form id="loginform" name="loginform" action="company_login.jsp" onsubmit="return validate_log()" method="post">
+					<br/>
+					<font size=4> Welcome </font><br/><br/>
+					<input class="css-input" id="email" type="email" name="email" placeholder="Email Address" autofocus required><br/><br/>
+					<input class="css-input" id="pass" type="password" name="pass" placeholder="Password" required><br/><br/>
+					<a href="javascript:{}" id="loginlink" onclick="return validate_log()"> LogIn </a><br/><br/>
+					<script>
+						var input = document.getElementById("email");
+						input.addEventListener("keyup", function(event)
+						{
+						    event.preventDefault();
+						    if (event.keyCode === 13)
+						    {
+						        document.getElementById("loginlink").click();
+						    }
+						});
+						var input = document.getElementById("pass");
+						input.addEventListener("keyup", function(event)
+						{
+						    event.preventDefault();
+						    if (event.keyCode === 13)
+						    {
+						        document.getElementById("loginlink").click();
+						    }
+						});
+						</script>
+					<a href="company_register.htm"> New Here ? </a>
+			</form>
+		</div>
+	</body>
+</html>

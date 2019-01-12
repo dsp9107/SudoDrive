@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="icon" type="image/png" href="Media/favicon.png">
+		<meta charset="ISO-8859-1">
+		<title>Here We Go !</title>
+		<link rel="stylesheet" type="text/css" href="styling.css">
+		<script>
+			function validate_vacform()
+			{
+				var r=document.getElementById("role");
+				var f=document.getElementById("field");
+				var s=document.getElementById("salary");
+				if(r.value==""||r.value.length>20)
+				{
+					window.alert("Please Check The Job Role !");
+					role.focus();
+					return false;
+				}
+				else if(f.value==""||f.value.length>20)
+				{
+					window.alert("Please Check The Job Field !");
+					field.focus();
+					return false;
+				}
+				else if(s.value==""||parseFloat(s.value)<1.0)
+				{
+					window.alert("Please Check The Salary !");
+					pass.focus();
+					return false;
+				}
+				document.getElementById('vacform').submit();
+				return true;
+			}
+		</script>
+	</head>
+	<body>
+		<br/><br/><br/><br/>
+		<br/><br/><br/>
+		<br/><br/>
+		<div align="center" class="others">
+			<form id="vacform" name="vacform" action="company_vacancy.jsp" onsubmit="return validate_vacform()" method="post">
+				<br/>
+				<font size=4> Registration </font><br/><br/>
+				<input class="css-input" type="text" id="role" name="role" size=20 placeholder="Job Role" autofocus><br/><br/>
+				<input class="css-input" type="text" id="field" name="field" size=20 placeholder="Field"><br/><br/>
+				<input class="css-input" type="text" id="salary" name="salary" size=20 placeholder="Annual Salary In Lacs"><br/><br/>
+				<a href="javascript:{}" onclick="return validate_vacform()"> Register </a><br/><br/>
+				<a href="javascript:{}" onclick="document.getElementById('vacform').reset();"> Reset </a>
+			</form>
+		</div>
+	</body>
+</html>

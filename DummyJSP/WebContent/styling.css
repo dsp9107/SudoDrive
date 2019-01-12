@@ -1,0 +1,131 @@
+@charset "ISO-8859-1";
+
+div.LoginForm
+{
+	display: table;
+	align: center;
+	width: 200px;
+	height: 260px;
+	position: fixed;
+	padding: 10px 10px;
+	margin: auto;
+	border-style: solid;
+    border-color: #ffff00;
+    background-color: white;
+    border-radius:6px;
+    box-shadow:0px 0px 50px 0px #00ffc8 ;
+}
+
+div.RegForm
+{
+	width: 200px;
+	height: 410px;
+	position: fixed;
+	top: 36.1%;
+	left: 50%;
+	padding: 10px 10px;
+	margin: 0 auto;
+	border-style: solid;
+    border-color: #ffff00;
+    background-color: white;
+    border-radius:6px;
+    box-shadow:0px 0px 50px 0px #00ffc8;
+}
+
+div.hidden
+{
+	display: table;
+	margin: auto;
+	padding: auto;
+	align: center;
+}
+
+div.others
+{
+	display: table;
+	margin: auto;
+	padding: 20px 20px;
+	border-style: solid;
+    border-color: #ffff00;
+    background-color: white;
+    border-radius:6px;
+    box-shadow:0px 0px 50px 0px #00ffc8;
+}
+
+div.fullpage
+{
+	display: table;
+	margin: 0 auto;
+	width: 70%;
+	padding: 20px 20px;
+	border-style: solid;
+	border-color: #ffff00;
+	background-color: white;
+	border-radius:6px;
+	box-shadow:0px 0px 50px 0px #00ffc8;
+}
+
+a.glowy
+{
+    box-shadow:0px 0px 60px 0px #00ffc8;
+}
+
+a:link, a:visited
+{
+	border-style: solid;
+    border-color: #ffff00;
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+    /*width: 85px;*/
+    width: auto;
+    align: center;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active
+{
+    background-color: #06BEB6;
+    color: white;
+}
+
+body
+{
+	background: linear-gradient(to right, #06beb6, #48b1bf);
+}
+
+input.css-input {
+     padding: 5px;
+     font-size: 14px;
+     border-width: 1px;
+     border-color: #CCCCCC;
+     background-color: #FFFFFF;
+     width: 180px;
+     color: #000000;
+     border-style: solid;
+     border-radius: 3px;
+     box-shadow: 0px 0px 3px rgba(66,66,66,.50);
+     text-shadow: 0px 0px 1px rgba(66,66,66,.50);
+}
+
+input.css-input:focus {
+     outline:none;
+}
+
+/*font
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+}
+}*/

@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<Questions>
+	<Logical>
+		<Question>
+			<Q>
+				Is (a*b*c) even?
+				1. a-b=b-c.
+				2. a-c=16.
+			</Q>
+			<O>
+				<O1> question can be answered by using one of the statements alone,
+					but cannot be answered by using the other statements alone
+				</O1>
+				<O2> question can be answered by using either statements alone. </O2>
+				<O3> question can be answered by using both statements together, but
+					cannot be answered by using either statements alone.
+				</O3>
+				<O4> question can not be answered even by using both statements
+					together.
+				</O4>
+			</O>
+			<A>4</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+
+		<Question>
+			<Q>
+				In a cricket match, the ‘man of the match’ award is given to the
+				player scoring the highest number of runs. In case of a tie, the
+				player (out of those locked in the tie) who has taken the higher
+				number of catches is chosen. Even thereafter if there is a tie, the
+				player (out of those locked in the tie) who has dropped fewer
+				catches is selected. Aakash, Biplab and Chirag who were contenders
+				for the award dropped at least one catch each. Biplab dropped 2
+				catches more than Aakash did, scored 50, and took 2 catches. Chirag
+				got two chances to catch and dropped both.
+				Who was the ‘man of the
+				match’?
+				A. Chirag made 15 runs less than both Aakash and Biplab.
+				B.
+				The catches dropped by Biplab are 1 more than the catches taken by
+				Aakash.
+			</Q>
+			<O>
+				<O1> Statement 1 alone is sufficient, but Statement 2 alone is not
+					sufficient to answer the question.
+				</O1>
+				<O2> Statement 2 alone is sufficient, but Statement 1 alone is not
+					sufficient to answer the question.
+				</O2>
+				<O3> Both statements taken together are sufficient to answer the
+					question, but neither statement alone is sufficient.
+				</O3>
+				<O4> Each statement alone is sufficient. </O4>
+			</O>
+			<A>3</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+
+		<Question>
+			<Q>
+				The members of a local club contributed equally to pay Rs.600
+				towards a
+				donation. How much did each one pay?
+				A. If there had been
+				five fewer members; each one would have paid an
+				additional Rs.10.
+				B.
+				There were at least 20 members in the club and each one paid no
+				more
+				than Rs.30.
+			</Q>
+			<O>
+				<O1> Statement 1 alone is sufficient, but Statement 2 alone is not
+					sufficient to answer the question.
+				</O1>
+				<O2> Statement 2 alone is sufficient, but Statement 1 alone is not
+					sufficient to answer the question.
+				</O2>
+				<O3> Both statements taken together are sufficient to answer the
+					question, but neither statement alone is sufficient.
+				</O3>
+				<O4> Each statement alone is sufficient. </O4>
+			</O>
+			<A>1</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+
+		<Question>
+			<Q>
+				Chief Minister AK, other ministers and policemen travel from one
+				place to
+				other in a convey. Each of them have their own cars.There
+				are 10
+				members-4 police and 6 ministers,The ministers are AK, M, R,
+				G, S
+				and B.
+				1) AK and G are scared and do not stand at the front or at
+				the rear
+				end of the convey
+				2) M is at the 9th position.
+				3) S,B and R
+				move one after the other and B is always between S and R.
+				4) AK and G
+				are neither after nor before any minister.
+				5)There is a Police
+				between A and R.
+				What are combinations possible?????
+			</Q>
+			<O>
+				<O1> 8</O1>
+				<O2>5</O2>
+				<O3>6</O3>
+				<O4> 9</O4>
+			</O>
+			<A>1</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+
+		<Question>
+			<Q>
+				Seven individuals - P, Q, R, S, T, U and V - participate in a
+				race. V
+				finishes ahead of P who finishes ahead of Q. If R finishes
+				first,
+				then T finishes last. If S finishes first, then U or Q
+				finishes
+				last. If S finishes sixth and Q finishes fifth, who finishes
+				in the
+				third or fourth place?
+			</Q>
+			<O>
+				<O1> V or P </O1>
+				<O2> S or P </O2>
+				<O3>P or V</O3>
+				<O4>V or S </O4>
+			</O>
+			<A>1</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+
+		<Question>
+			<Q>
+				In a class of boys and girls vikas's rank is 9th and tanvi's Rank
+				is
+				17th . Vikas's Rank among the boys in that class is 4th from the
+				top
+				and 18th from the bottom and tanvi's rank among the girls is 8th
+				from top and 21st from bottom. In the order of rank, how many girls
+				are there between tanvi and vikas?
+			</Q>
+			<O>
+				<O1>4 </O1>
+				<O2>2</O2>
+				<O3>5</O3>
+				<O4>7 </O4>
+			</O>
+			<A>2</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+
+		<Question>
+			<Q>
+				Consider the following logical inferences :-
+				I1: If it rains then
+				the cricket match will not be played.
+				The cricket match was played.
+				Inference: There was no rain.
+				I2: If it rains then the cricket match
+				will not be played.
+				It did not rain.
+				Inference: The cricket match was
+				played.
+				Which of the following is TRUE?
+			</Q>
+			<O>
+				<O1> Both I1 and I2 are correct inferences. </O1>
+				<O2> I1 is correct but I2 is not a correct inference. </O2>
+				<O3> I1 is not correct but I2 is a correct inference. </O3>
+				<O4> Both I1 and I2 are not correct inferences. </O4>
+			</O>
+			<A>2</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+
+		<Question>
+			<Q>
+				By the beginning of the 20th century, several hypotheses were
+				being
+				proposed, suggesting a paradigm shift in our understanding of
+				the
+				universe. However, the clinching evidence was provided by
+				experimental measurements of the position of a star which was
+				directly behind our sun.
+				Which of the following inference(s) may be
+				drawn from the above passage?
+				i) Our understanding of the universe
+				changes based on the positions
+				of stars.
+				(ii) Paradigm shifts usually
+				occur at the beginning of centuries
+				(iii) Stars are important objects
+				in the universe
+				(iv) Experimental evidence was important in
+				confirming this paradigm
+				shift.
+			</Q>
+			<O>
+				<O1> (i) , (ii) and (iv)  </O1>
+				<O2> (iii) only  </O2>
+				<O3> (i) and (iv) </O3>
+				<O4> (iv) only </O4>
+			</O>
+			<A>4</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				Sherlock Homes and Dr. Watson have to travel from Rajeev Gandhi
+				chowk to
+				Indira Gandhi International Airport via the metro. They have
+				enough
+				coins of 1, 5, 10 and 25 paise. Sherlock Homes agree to pay
+				for Dr.
+				Watson only if he tells all the possible combinations of
+				coins that
+				can be used to pay for the ticket.
+				How many combinations
+				are possible if the fare is 50 paise ?
+			</Q>
+			<O>
+				<O1>49 </O1>
+				<O2>39</O2>
+				<O3>45</O3>
+				<O4> 35</O4>
+			</O>
+			<A>1</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				p, q are positive integers, p>q. The product of pq=24. What is the
+				value of p ?
+				i. p/q is integer.
+				ii. q/3 in integer.
+			</Q>
+			<O>
+				<O1>question can be answered by using one of the statements alone,
+					but cannot be answered by using the other statements alone
+				</O1>
+				<O2>question can be answered by using either statements alone</O2>
+				<O3>question can be answered by using both statements together, but
+					cannot be answered by using either statements alone</O3>
+				<O4> question can not be answered even by using both statements
+					together</O4>
+			</O>
+			<A>1</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+	</Logical>
+
+	<Quantitative>
+		<Question>
+			<Q>
+				Fact 1: Ravneet said, “Mehar and I both have goats.” Fact 2: Mehar
+				said,
+				“I don’t have a goat.” Fact 3: Ravneet always tells the truth,
+				but
+				Mehar sometimes lies. If the three following statements are
+				facts,
+				which of the following statements must also be facts?
+				I. Mehar
+				has a goat II. Ravneet has a goat. III. Mehar is lying
+			</Q>
+			<O>
+				<O1> II only </O1>
+				<O2> I and II only  </O2>
+				<O3> I, II and III  </O3>
+				<O4> II and III only  </O4>
+			</O>
+			<A>3 </A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				Find the unit digit in the number ( 243*397*2497*3913)
+			</Q>
+			<O>
+				<O1>4 </O1>
+				<O2>2 </O2>
+				<O3>1 </O3>
+				<O4>3 </O4>
+			</O>
+			<A>3 </A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				Product of 4 consecutive even numbers is always divisible by
+			</Q>
+			<O>
+				<O1> 600</O1>
+				<O2>768</O2>
+				<O3>864</O3>
+				<O4>384 </O4>
+			</O>
+			<A>4</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				If one-third of one-fourth of a number is 15, then three-tenth of
+				that
+				number is
+			</Q>
+			<O>
+				<O1>35 </O1>
+				<O2>36</O2>
+				<O3>45</O3>
+				<O4>54 </O4>
+			</O>
+			<A>4</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				A man engaged a servant on the condition that he would pay him Rs.
+				900 and a uniform after one year service. He served only for 9
+				months and received uniform and Rs.650, find the price of the
+				uniform
+			</Q>
+			<O>
+				<O1>80 </O1>
+				<O2>100</O2>
+				<O3>900</O3>
+				<O4>85 </O4>
+			</O>
+			<A>2</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				From the salary of shweta, 20% is deducted as house rent, 10% she
+				spends
+				on children’s education, 20% on watching movies. If her
+				savings are
+				Rs. 5760/- then her total salary is
+			</Q>
+			<O>
+				<O1>11530 </O1>
+				<O2>12520</O2>
+				<O3>11520</O3>
+				<O4> 11658</O4>
+			</O>
+			<A>3</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				The cost price of 20 articles is the same as the selling price of
+				x
+				articles. If the profit is 25% then the value of x is
+			</Q>
+			<O>
+				<O1>16 </O1>
+				<O2>15</O2>
+				<O3>18</O3>
+				<O4>25 </O4>
+			</O>
+			<A>1</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				The population of a town was 100000 three years ago. If population
+				was
+				increased by 2%, 3%, 5% respectively in the last three years,
+				then
+				the present population of town is
+			</Q>
+			<O>
+				<O1> 1111</O1>
+				<O2>110101</O2>
+				<O3>111125</O3>
+				<O4> 110313</O4>
+			</O>
+			<A>4</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				The smallest 6 digit number exactly divisible by 111 is
+			</Q>
+			<O>
+				<O1>111111 </O1>
+				<O2>110011</O2>
+				<O3>100011</O3>
+				<O4> 110101</O4>
+			</O>
+			<A>3</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				If a positive integer n is divided by 5, the remainder is 3. Which
+				of
+				the numbers below yields a remainder of 0 when it is divided by 5.
+			</Q>
+			<O>
+				<O1>n+3 </O1>
+				<O2>n+2</O2>
+				<O3>n-1</O3>
+				<O4> n-2</O4>
+			</O>
+			<A>2</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+	</Quantitative>
+	<Verbal>
+		<Question>
+			<Q>
+				When we had risen to __________ the place, the hosts ___________
+				us to
+				spend more time with them.
+			</Q>
+			<O>
+				<O1> reside, refused</O1>
+				<O2> leave, requested</O2>
+				<O3> recognize, recollected</O3>
+				<O4> remind, dominated </O4>
+			</O>
+			<A>3</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				We were no _______ than a man ________ in his own house.
+			</Q>
+			<O>
+				<O1>Less shy,would have been </O1>
+				<O2>shyer,would be</O2>
+				<O3>more shy,will be</O3>
+				<O4> Less shy,would be</O4>
+			</O>
+			<A>2</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				Either a committee on course design or the committee on college
+				operation
+				_______ in this matter.
+			</Q>
+			<O>
+				<O1> decide</O1>
+				<O2>decide in</O2>
+				<O3>decide on</O3>
+				<O4> decides</O4>
+			</O>
+			<A>4</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				Tara is exhausted. She __________
+			</Q>
+			<O>
+				<O1> has running</O1>
+				<O2>was running</O2>
+				<O3>has been running</O3>
+				<O4> had been running</O4>
+			</O>
+			<A>3</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				I _____________ just one proper meal since yesterday morning.
+			</Q>
+			<O>
+				<O1>have eaten </O1>
+				<O2>have had</O2>
+				<O3>ate</O3>
+				<O4>had </O4>
+			</O>
+			<A>2</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				Every human being, after the first few days of his life, is a
+				product of
+				two factors: on the one hand, there is his _________
+				endowment; and
+				on the other hand, there is the effect of environment,
+				including
+				______.
+			</Q>
+			<O>
+				<O1> constitutional; weather</O1>
+				<O2> congenital; education</O2>
+				<O3> personal; climate</O3>
+				<O4> economic; learning </O4>
+			</O>
+			<A>2</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				Read the following five sentences and rearrange them to make a
+				coherent
+				and logical paragraph. After deciding the sequence, answer
+				the
+				questions given below.
+				1)In his literacy work he spoke of that
+				province of human life which
+				mere intellect does not speak.
+				2)He has
+				also given innocent joy to many children by his stories like
+				'Kabuliwalah'
+				3)These songs are sung not only in bengal but all over
+				the country.
+				4)Rabindranath's great works sprang from intensity of
+				vision and
+				feelings.
+				5)He sang of beauty and heroism, nobility and
+				charm.
+			</Q>
+			<O>
+				<O1>42153</O1>
+				<O2>41253</O2>
+				<O3>24153</O3>
+				<O4> 41235</O4>
+			</O>
+			<A>2</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				Rearrange the following five sentences in proper sequence so as to
+				for a
+				meaningful paragraph, then answer the questions given below
+				them.
+				1. After Examining him, the doctor smiled at him mischievously
+				and
+				took out a syringe.
+				2. Thinking that he was really sick, his
+				father summoned the family
+				doctor.
+				3. That day, Mintu wanted to take a
+				day off from school
+				4. Immediately, Mintu jumped up from his bed and
+				swore that he was
+				fine
+				5. Therefore he pretended to be sick and
+				remained in bed.
+
+			</Q>
+			<O>
+				<O1>35412 </O1>
+				<O2>34512</O2>
+				<O3>35214</O3>
+				<O4>24315 </O4>
+			</O>
+			<A>3</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				The least considered in latest Marxist attack ____________ the
+				innocent
+				victims.
+			</Q>
+			<O>
+				<O1> have been</O1>
+				<O2>were</O2>
+				<O3>was</O3>
+				<O4> are</O4>
+			</O>
+			<A>2</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				You________drive any car. But you_________not drive mine.
+			</Q>
+			<O>
+				<O1> can, will</O1>
+				<O2>will,can</O2>
+				<O3>can, may</O3>
+				<O4>may, can  </O4>
+			</O>
+			<A>4</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				The wages of sin __________ death.
+			</Q>
+			<O>
+				<O1> is</O1>
+				<O2>are</O2>
+				<O3>has</O3>
+				<O4> have</O4>
+			</O>
+			<A>1</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				But ________ we are now regularly written not just for tools but
+				well-established practices, organisations and institutions not all
+				of which seem to be ________ away.
+			</Q>
+			<O>
+				<O1>reports, withering </O1>
+				<O2>stories, trading</O2>
+				<O3>books, dying</O3>
+				<O4>obituaries, fading </O4>
+			</O>
+			<A>4</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				A. It begins with an ordinary fever and a moderate cough.
+				B. India
+				could be under attack from a class of germs that cause what
+				are
+				called typical pneumonia.
+				C. Slowly a sore throat progresses to
+				bronchitis and then pneumonia
+				and respiratory complications.
+				D. It
+				appears like the ordinary flu but baffled doctors find that the
+				usual drugs don’t work.
+				Choose the most logical order of sentences
+				from among the four given
+				choices
+			</Q>
+			<O>
+				<O1>abcd </O1>
+				<O2>bdac</O2>
+				<O3>adbc</O3>
+				<O4> bcda</O4>
+			</O>
+			<A>2</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				A. Good advertising can make people buy your products even if it
+				sucks.
+				B. A dollar spent on brain-washing is more cost-effective than
+				a
+				dollar spent on product improvement.
+				C. That’s important because it
+				takes pressure off you to make good
+				products.
+				D. Obviously, there is a
+				minimum quality that every product has to
+				achieve, it should be able
+				to withstand the shipping process without
+				becoming unrecognizable.
+				Choose the most logical order of sentences from among the four given
+				choices
+			</Q>
+			<O>
+				<O1>bacd </O1>
+				<O2>acbd</O2>
+				<O3>adbc</O3>
+				<O4>bcda </O4>
+			</O>
+			<A>2</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+		<Question>
+			<Q>
+				Their achievement in the field of literature is described as
+				________
+				sometimes it is even called _________.
+			</Q>
+			<O>
+				<O1> magnificent, irresponsible </O1>
+				<O2> insignificant, influential </O2>
+				<O3> significant, paltry </O3>
+				<O4> unimportant, trivial </O4>
+			</O>
+			<A>4</A>
+			<occurrence> 0 </occurrence>
+		</Question>
+	</Verbal>
+</Questions>
